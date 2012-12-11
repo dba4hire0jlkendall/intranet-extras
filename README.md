@@ -1,9 +1,10 @@
 Intranet Extras
 ===============
 
-Intranet Extras provide utilities that you can deploy and use easily on your server. For example: you can configure the time to run a job that do the cleaning Trash folder automatically, so that after a time period, your Trash is going to be cleaned up.
+Intranet Extras provides utilities that you can deploy and use easily on your server. 
+For example: you can configure the time to run a job to clean your Trash folder automatically, so that after a pre-defined time period, your Trash is going to be cleaned up.
 
-How to build and deploy extra modules provided by eXo Platform
+How to build and deploy extra modules provided by eXo Platform.
 
 * Requirements:
   + Git client
